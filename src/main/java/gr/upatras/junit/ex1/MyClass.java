@@ -12,7 +12,7 @@ public class MyClass {
 				return "NEGATIVE";
 			}
 			else {
-				return "The result is 0, Zero, Miden, Nada";
+				return "This is the change in develop branch";
 			}
 		}
 	}
